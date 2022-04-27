@@ -128,7 +128,7 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/amy-hoad/"
+      url: "https://www.linkedin.com/in/amy-hoad/"
 
 # Site Footer
 footer:
@@ -151,6 +151,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amy-hoad/"
 
 
 # Reading Files
